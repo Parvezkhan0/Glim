@@ -1,0 +1,30 @@
+/* globals.css */
+
+:root {
+  --font-primary: 'Inter', sans-serif;
+  --font-secondary: 'DM Sans', sans-serif;
+  --color-bg: #000;
+  --color-text: #fff;
+}
+
+/* ✅ Ensure full height for layout stretching */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* ✅ Body styling */
+body {
+  font-family: var(--font-primary);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Optional: You can add a smooth scroll effect globally */
+html {
+  scroll-behavior: smooth;
+}
