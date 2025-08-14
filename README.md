@@ -1,60 +1,81 @@
-# Glim – Cross-Border Payments Platform  
+# Glim – Cross-Border Payments Platform
 
-Glim is a modern, frontend-heavy web application that reimagines cross-border payments, enabling businesses to send money internationally in under 30 minutes with transparent fees and real exchange rates.  
+![Glim Screenshot](https://github.com/user-attachments/assets/1da327a9-d1d8-4221-88c1-e07f3225430d)
 
-🚀 **Live Demo:** [glimpay0o.web.app](https://glimpay0o.web.app)  
+Glim is a modern, frontend-heavy web application that reimagines cross-border payments, enabling businesses to send money internationally in under 30 minutes with transparent fees and real exchange rates.
 
----
-
-## 📌 Features  
-- **Sub-30 Minute Settlements** – Transfer money faster than traditional banking systems.  
-- **Transparent Pricing** – 1.5% flat fee, no hidden charges, real exchange rates.  
-- **Cost Savings** – Up to 70% cheaper compared to Stripe, PayPal, or bank wire fees.  
-- **24/7 Availability** – Always open for transactions, anytime, anywhere.  
-- **SaaS-Friendly** – Designed for Indian SaaS companies collecting payments from US customers.  
+🚀 **Live Demo:** [glimpay0o.web.app](https://glimpay0o.web.app)
 
 ---
 
-## 🖥️ Tech Stack  
-- **Frontend Framework:** React (with Vite)  
-- **Styling:** CSS  
-- **Build Tools:** Vite, ESLint  
-- **Hosting:** Firebase Hosting  
+## 📌 Features
+
+- **Sub-30 Minute Settlements** – Transfer money faster than traditional banking systems
+- **Transparent Pricing** – 1.5% flat fee, no hidden charges, real exchange rates
+- **Cost Savings** – Up to 70% cheaper compared to Stripe, PayPal, or bank wire fees
+- **24/7 Availability** – Always open for transactions, anytime, anywhere
+- **SaaS-Friendly** – Designed for Indian SaaS companies collecting payments from US customers
 
 ---
 
-## 📂 Project Setup  
+## 🖥️ Tech Stack
 
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/Parvezkhan0/Glim.git
-   cd Glim
+- **Frontend Framework:** React (with Vite)
+- **Styling:** CSS
+- **Build Tools:** Vite, ESLint
+- **Hosting:** Firebase Hosting
 
+---
 
-## Install dependencies
+## 📂 Project Setup
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/Parvezkhan0/Glim.git
+cd Glim
+```
+
+### 2. Install dependencies
+```bash
 npm install
+```
 
-
-Run locally
-
+### 3. Run locally
+```bash
 npm run dev
+```
 
-
-Build for production
-
+### 4. Build for production
+```bash
 npm run build
+```
 
+### 5. Deploy to Firebase (optional)
+```bash
+firebase deploy
+```
+*Note: Requires Firebase CLI to be configured*
 
-Deploy to Firebase (if you have Firebase CLI configured)
+---
 
-## firebase deploy
+## 📸 Screenshots
 
-📸 Screenshots
+![Glim Application Screenshot](https://github.com/user-attachments/assets/bef739fc-e974-4696-8164-653fd9b7e31b)
 
-
-<img width="1861" height="1083" alt="Screenshot 2025-08-14 110905" src="https://github.com/user-attachments/assets/e84371c4-4a75-4165-8d7a-ded3317bbef1" />
+---
 
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+## 📧 Contact
+
+For any questions or support, please reach out through the project repository.
